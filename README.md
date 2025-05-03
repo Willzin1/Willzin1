@@ -23,7 +23,7 @@ Durante minha formação, venho adquirindo experiência prática no desenvolvime
 
 - [**Projeto de Gerenciamento Escolar**](https://github.com/Willzin1/ProjetoReact): Sistema de gerenciamento escolar desenvolvido durante um curso prático de **React**. O projeto consome dados da nossa **API RESTful** construída com **Node.js** e **Express**, abordando funcionalidades como listagem, cadastro e edição de alunos.
 
-- [**API RESTful - Gerenciamento Escolar**](https://github.com/Willzin1/ApiRest): API desenvolvida com **Node.js**, **Express** e **MongoDB** para fornecer os dados ao sistema de gerenciamento escolar. Possui endpoints para operações CRUD de alunos, seguindo boas práticas de arquitetura REST.
+- [**API RESTful - Gerenciamento Escolar**](https://github.com/Willzin1/ApiRest): API desenvolvida com **Node.js**, **Express** e **MariaDB** para fornecer os dados ao sistema de gerenciamento escolar. Possui endpoints para operações CRUD de alunos, seguindo boas práticas de arquitetura REST.
 
 - [**API RESTful - Sustenta Food**](https://github.com/Willzin1/ApiLaravel): API REST desenvolvida em **Laravel 12**, **Docker**, **mySQL**. Possui os endpoints de toda a operação de nosso sistema. Projeto em desenvolvimento para o Trabalho de Conclusão de Curso (TCC).
 
